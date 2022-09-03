@@ -24,7 +24,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-XXXXXXXXXXXXX~XXXXXXXXXXX"
+        "googleMobileAdsAppId": "ca-app-pub-xxxxxxxxx-xxxxxxxx"
       },
       "package": "com.sourav0w.apktest"
     },
